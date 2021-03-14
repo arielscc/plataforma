@@ -1,9 +1,9 @@
 import React from 'react';
 
-export const Home = () => {
+export const Register = () => {
   return (
     <div className="ed-grid">
-      <h1>Home</h1>
+      <h1>Registro</h1>
     </div>
   );
 };
